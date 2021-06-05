@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body {
+    font-family: 'Russo One', sans-serif;
+}
+button{
+    width: 5rem;
+    height: 50px;
+    border-radius: 9px;
+    border: 5px solid #4076eb;
+    background-color: #f8a488;
+    font-size: 13px;
+    font-weight: 600;
+    transition:all 0.5s ease;
+    background: #f8a488;
+    color: white;
+  }
+
+  #why-I-Made-This{
+      width:10rem;
+  }
+  nav{
+      background-color: red;
+  }
+
+  footer{
+      width: 100%;
+      margin: auto;
+      height: 25px;
+      align-items: center;
+      background-color: black;
+      color:white;
+  }
